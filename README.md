@@ -6,5 +6,7 @@ Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers 
 
 The data used;
 The WeRateDogs Twitter archive downloaded from https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv
+
 The tweet image predictions downloaded from : https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
+
 Additional data from the Twitter API used Tweepy to query Twitter's API for additional data beyond the data included in the WeRateDogs Twitter archive.
