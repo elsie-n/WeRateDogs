@@ -1,3 +1,4 @@
+Seconf project on the udacity program
 # WeRateDogs
 The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs.
 WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
